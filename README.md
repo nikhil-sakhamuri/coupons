@@ -1,4 +1,6 @@
-##Practical Application Assignment 5.1: Will the Customer Accept the Coupon?
+Practical Application Assignment 5.1: Will the Customer Accept the Coupon?
+
+
 For my independent investigation I chose to explore the Coffee House coupons. First I found the overall proportion of Coffee coupons that were accepted. This came out to be 0.496, or almost 50% exactly. Next, I investigated disparities between age groups and found that the under-21 demographic was significantly more likely than any other age group to accept the coupon at almost 68%. Then i investigated disparities between people who frequented Coffee Houses (4+ times a month) versus those who didnt. Unsurprisingly, I also found a big disparity here as almost 67% of the people who frequented Coffee Houses accepted their coupon. This was to be expected but provides a nice sense check. 
 
 Next, I explored people based on their destination. I had a hunch that people without an urgent destination or headed to work may have a higher than average acceptance rate. Here, ther results were somewhat surprising. As my initial guess, people without an urgent destination did accept their coupons at a higher than average rate (57%). However, people headed to work accepted their coupons at a lower than average rate (44%). This could be due to being in a rush on the way to the office. Unsurprisingly, people headed home had the lowest acceptance rate at 36%. 
